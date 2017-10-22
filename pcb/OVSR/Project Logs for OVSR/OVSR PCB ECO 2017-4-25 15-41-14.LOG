@@ -1,0 +1,5 @@
+Added Component: Designator=P6(5.08-3)
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=SR_INT Pin=P6-2
+Added Pin To Net: NetName=VCC5 Pin=P6-3
+Added Member To Class: ClassName=OVSR Member=Component P6 HC-SR501

@@ -1,0 +1,7 @@
+Added Component: Designator=U6(DS18B20)
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VCC5 Pin=U6-3
+Added Pin To Net: NetName=SR_INT Pin=U6-2
+Added Pin To Net: NetName=SR_INT Pin=U-15
+Added Net: Name=SR_INT
+Added Member To Class: ClassName=OVSR Member=Component U6 HCSR501

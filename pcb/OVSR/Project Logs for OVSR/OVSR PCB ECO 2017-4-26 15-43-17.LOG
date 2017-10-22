@@ -1,0 +1,5 @@
+Added Component: Designator=RESET(RST_SW)
+Added Pin To Net: NetName=RESET Pin=RESET-1
+Added Pin To Net: NetName=GND Pin=RESET-2
+Added Member To Class: ClassName=OVSR Member=Component RESET SW
+Added Room: Name=OVSR

@@ -1,0 +1,14 @@
+Added Component: Designator=U?(STM-VFQFPN36_N)
+Added Component: Designator=U?(STM-VFQFPN36_N)
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetC44_1 Pin=U?-5
+Added Pin To Net: NetName=VCC3.3 Pin=U?-6
+Added Pin To Net: NetName=NetC7_2 Pin=U?-7
+Added Pin To Net: NetName=NetC6_2 Pin=U?-8
+Added Pin To Net: NetName=SDIO_CMD Pin=U?-9
+Added Pin To Net: NetName=BOOT0 Pin=U?-20
+Added Pin To Net: NetName=RESET Pin=U?-22
+Added Pin To Net: NetName=VCC3.3 Pin=U?-33
+Added Member To Class: ClassName=OVSR Member=Component U? STM32F103TBU6
+Added Member To Class: ClassName=OVSR Member=Component U? STM32F103TBU6
+Added Room: Name=OVSR

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=INT Pin=U-17
+Added Pin To Net: NetName=INT Pin=U-29
+Change Net Name : Old Net Name=ENC CS New Net Name=SPI2_CS
+Added Room: Name=OVSR

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=KEY_UP-1
+Removed Pin From Net: NetName=VCC3.3 Pin=KEY_UP-1
+Removed Pin From Net: NetName=WK_UP Pin=KEY_UP-2
+Removed Pin From Net: NetName=WK_UP Pin=KEY_UP-2
+Removed Member From Class: ClassName=OVSR Member=KEY_UP
+Change Component Comment : Designator=RESET Old Comment=KEY_M New Comment=SW
+Added Component: Designator=WK_UP(RST_SW)
+Added Pin To Net: NetName=VCC3.3 Pin=WK_UP-1
+Added Pin To Net: NetName=WK_UP Pin=WK_UP-2
+Added Member To Class: ClassName=OVSR Member=Component WK_UP SW
+Added Room: Name=OVSR
